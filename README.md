@@ -77,17 +77,4 @@ This README file provides an overview of the activity.
   - Partie: Chapitre 5
 
 ## Description
-
-The provided information covers the topic of Information and Communication Technology (ICT). It includes various aspects such as the definition of ICT, its components, categories, and objectives.
-
-## Content
-
-The content of the provided information is as follows:
-
-1. Definition of ICT: Provides an overview of the techniques used to manipulate, process, transmit, and exchange information using tools such as hardware, software, networks, and telecommunications.
-
-2. Categories and Objectives: Describes the three main categories of ICT, which include teleinformatics, telecommunications, and electronics. It also outlines the objectives of ICT, such as connectivity, modularity, simplicity of implementation and use, and reliability.
-
-3. Components of ICT: Explains the hardware and software components involved in ICT, including devices like laptops, televisions, smartphones, and the various systems and networks.
-
-4. Characteristics: Highlights the characteristics of ICT, such as speed, decentralization of power, access to information, rationality, globalization, distribution, and intensity
+Les techniques de l’information et de la communication (TIC) regroupent l'ensemble des outils mis en place pour manipuler, traiter (matériels et logiciels de traitement), produire, faire circuler , transmettre, modifier et échanger (réseaux et moyens de transmission et d’échange), et permettre une meilleure diffusion de l'information , de conserver (les supports de stockage), présenter de l’information sous forme vocale, images ou des données contenues dans des signaux de nature optiques, électromagnétiques ou acoustiques La naissance des TIC est due notamment à la convergence de l'informatique, des télécommunications, des électroniques et de l'audiovisuel.
